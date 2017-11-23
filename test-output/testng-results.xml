@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23209" started-at="2017-11-22T08:17:02Z" finished-at="2017-11-22T08:17:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23209" started-at="2017-11-22T08:17:02Z" finished-at="2017-11-22T08:17:25Z">
+      <class name="learnJenkins.RunTestCase">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:learnJenkins.RunTestCase@25bbe1b6]" name="beforeClass" is-config="true" duration-ms="3272" started-at="2017-11-22T13:47:02Z" finished-at="2017-11-22T13:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="LoginServifylUrl()[pri:1, instance:learnJenkins.RunTestCase@25bbe1b6]" name="LoginServifylUrl" duration-ms="18180" started-at="2017-11-22T13:47:05Z" finished-at="2017-11-22T13:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginServifylUrl -->
+        <test-method status="PASS" signature="clikOnConsumerCateegory()[pri:2, instance:learnJenkins.RunTestCase@25bbe1b6]" name="clikOnConsumerCateegory" duration-ms="1723" started-at="2017-11-22T13:47:23Z" finished-at="2017-11-22T13:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clikOnConsumerCateegory -->
+      </class> <!-- learnJenkins.RunTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
